@@ -1,0 +1,10 @@
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula-Test-Net\bin\Debug\Brujula-Test-Net.exe.config
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula-Test-Net\bin\Debug\Brujula-Test-Net.exe
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula-Test-Net\bin\Debug\Brujula-Test-Net.pdb
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula-Test-Net\bin\Debug\Brujula.DTO.dll
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula-Test-Net\bin\Debug\Brujula.DTO.pdb
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula-Test-Net\obj\Debug\Brujula-Test-Net.csprojResolveAssemblyReference.cache
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula-Test-Net\obj\Debug\Brujula-Test-Net.exe
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula-Test-Net\obj\Debug\Brujula-Test-Net.pdb
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula-Test-Net\bin\Debug\Brujula.Logic.dll
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula-Test-Net\bin\Debug\Brujula.Logic.pdb

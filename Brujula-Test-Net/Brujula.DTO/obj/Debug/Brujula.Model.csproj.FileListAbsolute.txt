@@ -1,0 +1,4 @@
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula.DTO\bin\Debug\Brujula.DTO.dll
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula.DTO\bin\Debug\Brujula.DTO.pdb
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula.DTO\obj\Debug\Brujula.DTO.dll
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula.DTO\obj\Debug\Brujula.DTO.pdb

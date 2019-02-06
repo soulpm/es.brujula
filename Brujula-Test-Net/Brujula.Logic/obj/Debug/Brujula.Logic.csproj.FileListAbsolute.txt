@@ -1,0 +1,7 @@
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula.Logic\bin\Debug\Brujula.Logic.dll
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula.Logic\bin\Debug\Brujula.Logic.pdb
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula.Logic\bin\Debug\Brujula.DTO.dll
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula.Logic\bin\Debug\Brujula.DTO.pdb
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula.Logic\obj\Debug\Brujula.Logic.csprojResolveAssemblyReference.cache
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula.Logic\obj\Debug\Brujula.Logic.dll
+G:\Proyectos\Brujula\Net\Brujula-Test-Net\Brujula.Logic\obj\Debug\Brujula.Logic.pdb
