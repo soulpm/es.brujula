@@ -1,0 +1,10 @@
+es\brujula\dto\Person.class
+es\brujula\utility\CompareUtility.class
+es\brujula\exception\BrujulaException.class
+es\brujula\logic\DepartmentProfessors.class
+es\brujula\Main.class
+es\brujula\dto\AssociatedProfessor.class
+es\brujula\utility\PropertyUtility.class
+es\brujula\utility\ValidationUtility.class
+es\brujula\dto\ActingProfessor.class
+es\brujula\dto\Professor.class
