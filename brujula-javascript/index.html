@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Gesti&oacute;n de Lista de Cadena de Texto</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="/brujula/images/favicon.png" />
+  <link href="/brujula/css/style.css" rel="stylesheet" type="text/css" />
+  <script src="/brujula/js/jquery-3.3.1.js" type="text/javascript"></script>
+  <script src="/brujula/js/jquery.mockjax.js"></script>
+  <script src="/brujula/js/list-item.js"    type="text/javascript" ></script>
+  <script src="/brujula/js/manage-list.js"  type="text/javascript" ></script>
+  
+</head>
+<body>
+  <div class="container-body">
+      <span class="title">Bienvenid@ a la Gesti&oacute;n de Lista de Cadenas de Texto:</span>
+      <br />
+      <div id="prompt-list" class="prompt-list">
+          <span>Ingrese el texto para agregar a la lista:</span>
+          <br /><br /><br />
+          <div class="message-validation" id="message-validation-prompt"></div>
+          <br /><br />
+          <input type="text" id="txt-prompt-input"  />
+          <br /><br /><br />
+          <button class="btn-prompt" id="btn-prompt-input-add">Aceptar</button>
+
+          <button class="btn-prompt" id="btn-prompt-input-close">Cancelar</button>
+      </div>
+      <div id="container-list" class="container-list"></div>
+      <button class="btn btn-add" title="Agregar"><img src="/brujula/images/add.png" /></button>
+      <button class="btn btn-drop" title="Eliminar Todos"><img src="/brujula/images/trash.png" /></button>
+      <button class="btn btn-undo" title="Deshacer"><img src="/brujula/images/undo.png" /></button>
+      
+  </div>
+</body>
+</html>
