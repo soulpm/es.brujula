@@ -8,6 +8,7 @@ namespace Brujula.Logic
 {
     public class Principal
     {
+        private string figuraTipo { get; set; }
 
         private List<Figura> GetFiguras()
         {
@@ -22,14 +23,18 @@ namespace Brujula.Logic
 
         private void GetFiguraTypeCuadrado()
         {
+            figuraTipo = new Cuadrado().GetType().Name;
+            PrintTypeFigura(figuraTipo);
             foreach (var item in GetFiguras())
             {
-                if (item.GetType().BaseType.Name.Equals(new Cuadrado().GetType().Name))
+                if (item.GetType().BaseType.Name.Equals(figuraTipo))
                 { item.pintar(); }
             }
         }
         private void GetFiguraTypeTriangulo()
         {
+            figuraTipo = new Triangulo().GetType().Name;
+            PrintTypeFigura(figuraTipo);
             foreach (var item in GetFiguras())
             {
                 if (item.GetType().Name.Equals(new Triangulo().GetType().Name))
@@ -37,20 +42,21 @@ namespace Brujula.Logic
             }
         }
 
+        private void PrintTypeFigura(string typeFigure) {
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine("Recorrido Figuras de tipo "+typeFigure+": ");
+            Console.ForegroundColor = ConsoleColor.White;
+        }
+
         public void ImprimirReporte()
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Recorriendo Figuras: ");
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine("1er Recorrido Figuras de tipo Cuadrado:");
             Console.ForegroundColor = ConsoleColor.White;
             GetFiguraTypeCuadrado();
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine("2do Recorrido Figuras de tipo Triangulo:");
             Console.ForegroundColor = ConsoleColor.White;
             GetFiguraTypeTriangulo();
             Console.ReadLine();
-
         }
 
     }
